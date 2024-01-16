@@ -50,9 +50,11 @@ In this project,AosCyberGroup a fictional company, deployed an Azure-based honey
 
 18.The results of the query are populated in the Log Analytics workspace<br>
 
-19.Press Enter twice then type SigninLogs (SigninLogs is one of the Logs categories selected to be sent to the Log Analytics workspace)
-<br>
+19.Press Enter twice then type SigninLogs (SigninLogs is one of the Logs categories selected to be sent to the Log Analytics workspace<br>
+
 20.Click Run to run the SigninLogs query<br>
+
+![image](https://github.com/NATASHASAINI/AZURETENANT/assets/156629309/2279c392-1ab5-484f-b317-390f995255fb)
 
 21.The results of the query are populated in the Log Analytics workspace<br>
 
