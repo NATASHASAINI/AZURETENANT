@@ -1,5 +1,5 @@
 
-# Configuring Azure Active Directory (Tenant Level-Logging &Monitoring)
+# Configuring Azure Active Directory (Tenant Level-Logging &Monitoring)and analyzing logs using KQL
 ![AAD-Logging& Monitoring ](https://github.com/NATASHASAINI/AZURETENANT/assets/156629309/59a50e19-33ad-48ab-8e44-18fba036c2f0)
 
 ## Introduction
